@@ -532,3 +532,10 @@ footer p {
         padding: calc(var(--spacing-md) * 0.8);
     }
 }
+
+.map-image {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-md);
+    display: block;
+}
