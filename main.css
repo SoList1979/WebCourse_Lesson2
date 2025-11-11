@@ -417,14 +417,12 @@ footer p {
     transform: translateY(-2px);
 }
 
-.social-link.vk::before {
-    content: "VK";
-}
 .social-link.telegram::before {
     content: "Telegram";
 }
-.social-link.whatsapp::before {
-    content: "WhatsApp";
+
+.social-link.max::before {
+    content: "MAX";
 }
 
 /* Карта */
